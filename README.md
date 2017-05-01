@@ -1,2 +1,2 @@
 # Mafia-App
-This is the app for Mafia
+This is the code for a andriod app for playing the game Mafia!
